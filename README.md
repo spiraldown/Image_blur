@@ -1,6 +1,6 @@
 # **Image Blur**
 
-Code written in Ruby that provides interaction with a Doge. This was an assignment that was completed while attneding the University of Denver Full Stack Web Developer Bootcamp.
+Assignment from the University of Denver Full Stack Web Developer Bootcamp. We were to create code that would take the input provided on a two dimensional array and output it as it was entered.
 
 
 
